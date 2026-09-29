@@ -12,7 +12,7 @@ I work on full-stack AI solutions, data engineering, and predictive algorithms u
 ### Ali Khan's GitHub Stats
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ali-aideveloper&show_icons=true&theme=cobalt&hide_border=false&count_private=true" />
+  <img height="180" src="https://github-readme-stats-git-masterrstme-stats.vercel.app/api?username=ali-aideveloper&show_icons=true&theme=cobalt&hide_border=false&count_private=true" />
 </div>
 
 ---
