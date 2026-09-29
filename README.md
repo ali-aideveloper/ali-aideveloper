@@ -1,37 +1,45 @@
 <div align="center">
-  <h2>🟢 Donezo — Ali's GitHub Control Center</h2>
+  <h2>🟢 Ali Khan — GitHub Control Center</h2>
 </div>
 
-<!-- TOP STAT CARDS (Image jaisay 4 Cards) -->
+<!-- TOP STAT CARDS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Projects-24-05445E?style=for-the-badge&logo=github&color=134e4a" />
-  <img src="https://img.shields.io/badge/Ended_Projects-10-05445E?style=for-the-badge&logo=checkCircle&color=065f46" />
-  <img src="https://img.shields.io/badge/Running_Projects-12-05445E?style=for-the-badge&logo=play&color=047857" />
-  <img src="https://img.shields.io/badge/Pending_Projects-2-05445E?style=for-the-badge&logo=time&color=0f766e" />
+  <img src="https://img.shields.io/badge/Focus-Data_Science_%26_AI-107C41?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Flask_%26_SQL-00599C?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2ea44f?style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 Project Analytics & Progress
+### 🛠️ Tech Stack & Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Overview
 <div align="center">
-  <!-- TokyoNight / Forest Green Theme Stats Card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ali-aideveloper&show_icons=true&theme=forest&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-aideveloper&layout=compact&theme=forest&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstme-stats.vercel.app/api?username=ali-aideveloper&show_icons=true&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstme-stats.vercel.app/api/top-langs/?username=ali-aideveloper&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Green Streak Tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-aideveloper&theme=forest&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-aideveloper&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-### 🤝 Team Collaboration & Running Tasks
-| Status | Task / Repository | Tech Stack |
+### 🤝 Projects & Repositories
+| Status | Project Name | Description & Tech |
 | :---: | :--- | :--- |
-| 🟢 `Completed` | **E-Commerce Recommendation System** | Python, Flask, MongoDB |
-| 🟡 `In Progress` | **Titanic ML Classification App** | Scikit-Learn, Pandas |
-| 🟡 `In Progress` | **IMDB Sentiment Analysis NLP** | TF-IDF, Logistic Regression |
-| 🟠 `Pending` | **CLI Expense Tracker** | Python CRUD, JSON |
+| 🟢 `Completed` | **[E-Commerce Recommendation System](https://github.com/ali-aideveloper/ecommerce-recommendation-system)** | AI Recommendation Engine (Flask, MongoDB, SQL) |
+| 🟡 `In Progress` | **Titanic ML Classification** | Machine Learning Predictive Model (Scikit-Learn) |
+| 🟡 `In Progress` | **IMDB Sentiment Analysis** | NLP Model using TF-IDF & Logistic Regression |
+| 🟢 `Completed` | **CLI Expense Tracker** | Modular Python Expense Management Application |
