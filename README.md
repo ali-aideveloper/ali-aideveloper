@@ -9,13 +9,11 @@ I work on full-stack AI solutions, data engineering, and predictive algorithms u
 
 ---
 
-### Ali Khan's GitHub Overview
+### Ali Khan's GitHub Stats
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Data_Scientist_%26_AI_Developer-05445E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building_%26_Learning-065f46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Machine_Learning_%26_Backend-007ACC?style=for-the-badge" />
-</p>
+<div align="left">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=ali-aideveloper&show_icons=true&theme=cobalt&title_color=38bdf8&text_color=ffffff&bg_color=0f172a&border_color=1d4ed8&hide_border=false" />
+</div>
 
 ---
 
@@ -41,9 +39,9 @@ I work on full-stack AI solutions, data engineering, and predictive algorithms u
 
 ▶️ **[E-Commerce Recommendation System](https://github.com/ali-aideveloper/ecommerce-recommendation-system)** — Full-stack AI Recommendation Web App built with Flask, SQL Server & MongoDB.
 
-📊 **Titanic ML Classification App** — Machine learning classification pipeline using Logistic Regression and Random Forest.
+📊 **[Titanic ML Classification App](https://github.com/ali-aideveloper)** — Machine learning classification pipeline using Logistic Regression and Random Forest.
 
-🎬 **IMDB Sentiment Analysis NLP** — Sentiment analysis project processing 50K movie reviews with TF-IDF vectorization.
+🎬 **[IMDB Sentiment Analysis NLP](https://github.com/ali-aideveloper)** — Sentiment analysis project processing 50K movie reviews with TF-IDF vectorization.
 
 <details>
 <summary><b>▶️ Click to expand full list of projects</b></summary>
